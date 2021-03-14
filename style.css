@@ -1,0 +1,29 @@
+body{
+  background-image: url("widf first page photo.jpg");
+  background-repeat: no-repeat;
+  background-position: center 190px;
+  background-size: 100%
+}
+.SignUp{
+  margin-left: 90%;
+  font-weight: 1000;
+}
+.menu{
+  font-size: 20px;
+}
+ul li{
+  margin-bottom: 15px;
+}
+h1 {
+font-size:40px;
+text-align: center;
+margin:0;
+padding: 20px;
+}
+h2 {
+font-size:20px;
+text-align: center;
+margin:0;
+padding: 20px;
+border-bottom: 1px solid gray;
+}
